@@ -1,8 +1,5 @@
 # Software Developer
 
-### Education
-Software Development
-
 ### Work Experience
 Tech @ Techy
 - Repairs on Smartphones and older devices
@@ -13,6 +10,10 @@ Tech @ Techy
 - Repairs on radios and speakers
 - Repairs on drones
 
+### Education
+Software Development
+Graduation: 2024
+
 ### Certifications
 - Computer Programmer
 - Computer Programming Specialist
@@ -21,8 +22,11 @@ Tech @ Techy
 
 ### Websites
 
-Linked In: https://www.linkedin.com/in/adam-khan-788071324/
+Linked In:
+https://www.linkedin.com/in/adam-khan-788071324/
 
-Indeed: https://profile.indeed.com/p/adamk-m53s81c
+Indeed:
+https://profile.indeed.com/p/adamk-m53s81c
 
-GitHub: https://github.com/kumaaj
+GitHub:
+https://github.com/kumaaj
