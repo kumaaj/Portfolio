@@ -1,6 +1,6 @@
 # Software Developer
 
-###Education
+### Education
 Software Development
 
 ### Work Experience
