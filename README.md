@@ -1,4 +1,4 @@
-![Adam Khan](1736478922877January2025Adam.png)
+Adam Khan
 
 # Software Developer
 
